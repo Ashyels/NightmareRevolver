@@ -1,4 +1,4 @@
-## Simfoni Mekanik
+## Simfoni Mekanik 一═デ︻
 
 Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium luas berdenyut mengikuti irama mesin, desis besi solder, dan ketukan cepat jari yang menari di atas panel kendali. Cahaya pucat kebiruan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—menciptakan kesan bukan sebagai tempat bagi manusia, melainkan rahim dingin tempat keajaiban teknologi yang belum teruji menanti kelahirannya.
 
