@@ -1,6 +1,6 @@
-
-**Bab 1**
-## Simfoni Mekanis 一═デ︻
+<p align="right"><b>Bab 1</b></p>
+<h2 align="right">一═デ︻</br>
+Simfoni Mekanis</h2>
 
 &emsp;Di tengah simfoni mekanis yang tak pernah benar-benar terdiam, sebuah laboratorium raksasa berdenyut mengikuti irama mesin-mesin, desis alat solder, dan ketukan cepat jemari yang menari di atas panel kendali. Cahaya biru pucat keputihan mengalir dari langit-langit tinggi, menembus kabut partikel logam yang melayang di udara—memberi kesan bukan sebagai tempat bagi manusia, melainkan sebuah rahim dingin, tempat keajaiban teknologi yang belum teruji menanti kelahirannya.
 
