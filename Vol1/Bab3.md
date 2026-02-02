@@ -1,4 +1,5 @@
-**Bab 3 一═デ︻**
+**Bab 3**
+<h2 align="left">一═デ︻</h2>
 ## Sahabat Berkaki Empat
 
 &emsp;Pagi itu terendam dalam keheningan.
