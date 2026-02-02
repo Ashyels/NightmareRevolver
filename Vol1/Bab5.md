@@ -4,10 +4,10 @@ Tarian Gelombang Otak</h2>
 
 
 
-&emsp;Di dalam ruang sunyi Laboratorium Hypnexis, satu-satunya suara yang terdengar hanyalah dengung mesin yang stabil dan denting logam halus dari instrumen medis. Monitor-monitor berpendar biru pucat, memandikan wajah para peneliti dan teknisi dengan cahaya asing—mereka duduk berjajar rapi, waspada, tanpa sepatah kata pun.
+&emsp;Di dalam ruang sunyi Laboratorium **Hypnexis**, satu-satunya suara yang terdengar hanyalah dengung mesin yang stabil dan denting logam halus dari instrumen medis. Monitor-monitor berpendar biru pucat, memandikan wajah para peneliti dan teknisi dengan cahaya asing—mereka duduk berjajar rapi, waspada, tanpa sepatah kata pun.
 
 
-&emsp;Di sisi kanan ruangan, seorang pria terbaring di atas ranjang uji. Telinga kanannya terpasang sebuah perangkat kecil—Dreem—yang kini telah disempurnakan dengan teknologi nano oneirokinetik terbaru: Sapna Herphera 101-TR, sebagaimana tercatat pada setumpuk dokumen yang digenggam Berkin.
+&emsp;Di sisi kanan ruangan, seorang pria terbaring di atas ranjang uji. Telinga kanannya terpasang sebuah perangkat kecil—**Dreem**—yang kini telah disempurnakan dengan teknologi nano oneirokinetik terbaru: **Sapna Herphera 101-TR**, sebagaimana tercatat pada setumpuk dokumen yang digenggam Berkin.
 
 
 &emsp;Malam ini bukanlah uji coba biasa.
@@ -53,7 +53,7 @@ matanya tetap siaga, bergerak cepat dari monitor ke tubuh Raviel, lalu kembali. 
 “Karlee, apa yang sedang dialami subjek kita sekarang?”
 
 
-&emsp;Pandangan Karlee tak beranjak dari konsol. “Ia berada di Elysnera, Tuan. Aktivitas neural mengonfirmasi imersi penuh.”
+&emsp;Pandangan Karlee tak beranjak dari konsol. “Ia berada di **Elysnera**, Tuan. Aktivitas neural mengonfirmasi imersi penuh.”
 
 
 &emsp;Bibir Darlen membentuk senyum samar. “Dan bisakah kita melihatnya? Tunjukkan apa yang ia saksikan.”
@@ -155,7 +155,8 @@ Sekali. Dua kali.
 &emsp;Dan ia tersenyum.
 
 
-&emsp;Ruangan meledak oleh tepuk tangan dan sorak.  
+&emsp;Ruangan meledak oleh tepuk tangan dan sorak.
+
 &emsp;“Dia bangun!”  
 &emsp;“Kita berhasil!”
 
