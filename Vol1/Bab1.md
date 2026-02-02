@@ -70,8 +70,6 @@
 &emsp;&emsp;Ia tidak lahir dari pemahaman—melainkan dari ketakutan.
 
 ***
----
-___
 
 <p align="center">
   <a style="text-decoration:none;">Bab 1</a>
