@@ -97,4 +97,5 @@ Dan dengan itu, janji itu menggantung di udara seperti parfum—sunyi, kuat, tak
 
 Bukan sekadar sebuah perangkat—melainkan sebuah simbol mahakarya.
 
+[Bab 1](https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab1.md)
 [Bab 3](https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab3.md)
