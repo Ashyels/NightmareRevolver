@@ -1,6 +1,6 @@
 **Bab 3**
-<h2 align="left">一═デ︻</h2>
-## Sahabat Berkaki Empat
+<h2 align="right">一═デ︻</br>
+Sahabat Berkaki Empat</h2>
 
 &emsp;Pagi itu terendam dalam keheningan.
 
