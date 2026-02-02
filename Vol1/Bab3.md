@@ -88,7 +88,8 @@
 
 &emsp;Rasanya, tak ada tempat baginya di rumah ini. Ayahnya, yang tenggelam dalam berhala-berhala logamnya, jarang menoleh. Jarang mendengar. Jarang benar-benar melihatnya.
 
-&emsp;Hanya Mishyels yang membuatnya merasa hidup.  
+&emsp;Hanya Mishyels yang membuatnya merasa hidup.
+
 &emsp;Hanya Mishyels yang memahami perih sunyi di dalam dadanya.
 
 &emsp;Ia membuka kaleng itu, melepaskan aroma lembut daging cincang halus—dipilih dengan cermat seminggu lalu di pasar. Dengan jarinya, ia mengambil sedikit dan mengulurkannya perlahan ke arah Mishyels, yang menatap dengan mata berbinar seperti bintang pagi.
@@ -107,7 +108,8 @@
 
 &emsp;Tak ada sebab yang jelas, tak ada alasan yang bisa ia genggam—hanya sebuah beban, berat dan menekan, seolah jiwanya sendiri tumbuh terlalu besar untuk ditampung.
 
-&emsp;Pandangan matanya terangkat ke langit-langit.  
+&emsp;Pandangan matanya terangkat ke langit-langit.
+
 &emsp;Ke cahaya.  
 &emsp;Ke entah apa.
 
