@@ -44,8 +44,8 @@ Benda itu tampak seperti modul putih ramping yang memeluk telinga—menggabungka
 
 Sebuah punggung vertikal tipis membentang di sisinya, menyimpan mikro-sensor yang berdenyut oleh sinyal tak kasatmata—menghubungkan pikiran, ingatan, dan presisi buatan dalam harmoni sempurna, ditandai cahaya indikator samar yang membisikkan kesiapan dan statusnya. Meski berukuran ringkas, Dreem memikul janji revolusioner: membuka lapisan terdalam pikiran, menuntun kesadaran melampaui keseharian—sementara beristirahat lembut di sisi telinga.
 
-Ia bukan sekadar perangkat, melainkan ciptaan untuk beristirahat.
-Penuntun halus bagi mimpi.
+Ia bukan sekadar perangkat, melainkan ciptaan untuk beristirahat. **  **
+Penuntun halus bagi mimpi. **  **
 Pendamping sunyi bagi pikiran yang terlelap.
 
 “Dan proyeksi?” tanya Darlen.
@@ -96,7 +96,7 @@ Liem kembali menatap antarmuka Dreem. Dan pada saat itu, perangkat itu tampak bu
 
 “Jika yang kau katakan benar—jika Dreem benar-benar bisa mengembalikan mimpi pada mereka yang bahkan tak mampu tidur…”
 
-Ia menoleh kembali pada Darlen, matanya tajam oleh keyakinan.
+Ia menoleh kembali pada Darlen, matanya tajam oleh keyakinan. **  **
 “Maka aku tak hanya akan berinvestasi. Aku akan membawa yang lain. Rekan-rekan. Pria-pria dengan anak-anak. Istri. Orang-orang tercinta. Semua orang ingin beristirahat dengan tenang. Semua orang—ingin bermimpi.”
 
 Darlen mengangguk perlahan.
