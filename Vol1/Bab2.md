@@ -44,8 +44,8 @@ Benda itu tampak seperti modul putih ramping yang memeluk telinga—menggabungka
 
 Sebuah punggung vertikal tipis membentang di sisinya, menyimpan mikro-sensor yang berdenyut oleh sinyal tak kasatmata—menghubungkan pikiran, ingatan, dan presisi buatan dalam harmoni sempurna, ditandai cahaya indikator samar yang membisikkan kesiapan dan statusnya. Meski berukuran ringkas, Dreem memikul janji revolusioner: membuka lapisan terdalam pikiran, menuntun kesadaran melampaui keseharian—sementara beristirahat lembut di sisi telinga.
 
-Ia bukan sekadar perangkat, melainkan ciptaan untuk beristirahat. **  **
-Penuntun halus bagi mimpi. **  **
+Ia bukan sekadar perangkat, melainkan ciptaan untuk beristirahat.   
+Penuntun halus bagi mimpi.   
 Pendamping sunyi bagi pikiran yang terlelap.
 
 “Dan proyeksi?” tanya Darlen.
