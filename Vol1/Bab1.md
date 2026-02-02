@@ -99,7 +99,7 @@ Yoshi duduk sendiri di salah satu bangku di sudut halaman yang sunyi, berkas itu
 
 Ia mengembuskan napas.
 
-_Mimpi, ya…_
+_Mimpi…_
 
 Tangannya merogoh saku, mengambil ponselnya. Beberapa sentuhan kemudian, layar menyala menampilkan sebuah foto—yang tak pernah sanggup ia hapus. Dirinya dan Raviel, tertawa di bawah matahari musim panas yang telah lama berlalu. Bebas. Tanpa beban.
 
@@ -113,7 +113,7 @@ _Apa yang membuatmu menerima tawaran itu?_
 
 Hening. Ia mengunci layar dengan helaan napas berat.
 
-_Sebuah sistem yang bisa memanipulasi mimpi, ya…_
+_Sebuah sistem yang bisa memanipulasi mimpi…_
 
 Ia bukan tipe orang yang mampu berpura-pura setuju—tak peduli seberapa memukau janji-janjinya terdengar.
 
