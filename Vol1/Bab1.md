@@ -19,6 +19,7 @@
 &emsp;“Aku tahu…” bisik teknisi kedua. Ia terdiam, lalu meraih sebuah dokumen di atas meja—laporan awal tentang kemampuan mekanisme itu dalam oneirokinesis. Daftar efek sampingnya kelam dan tanpa ampun: distorsi ingatan, tekanan neurologis, teror malam berkepanjangan. Ia membaca setiap baris dengan perlahan, alisnya berkerut, napasnya terasa berat di dada.  
 
 &emsp;Dengan langkah tertahan, pria dari Negeri Matahari Terbit itu berjalan ke ujung laboratorium, tempat seorang bertubuh kekar bersantai di depan layar komputer, menyeruput kopi panas dengan headset menutup telinganya. Musik bergema pelan dari dalamnya, membuat pria itu tampak terputus dari dunia sekitarnya.  
+
 &emsp;“Berkin,” panggil sang teknisi dengan lembut.  
 
 &emsp;Tak ada jawaban.  
