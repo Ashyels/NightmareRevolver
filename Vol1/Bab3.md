@@ -1,4 +1,4 @@
-<b align="right">Bab 3</b>
+<p align="right"><b>Bab 3</b></p>
 <h2 align="right">一═デ︻</br>
 Sahabat Berkaki Empat</h2>
 
