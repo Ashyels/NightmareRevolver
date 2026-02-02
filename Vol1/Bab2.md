@@ -9,8 +9,6 @@
 
 &emsp;Sebuah nama yang bergema di lorong-lorong dunia neuroteknologi—seorang pria yang bukan sekadar memimpin Lucidia Technology and Neuro-Research (TNR) di bawah Hypnexis Labs, melainkan membayangkan, membentuk, dan menghaluskan tepian masa depan itu sendiri. Di bawah kendalinya, mesin-mesin tunduk pada kehendak tidur.
 
-&emsp;
-
 &emsp;Di hadapannya duduk Liem, seorang investor yang ditempa oleh waktu dan dibentuk oleh konsekuensi. Setelan gadingnya jatuh sempurna di tubuh yang sedikit membungkuk oleh usia. Rambutnya yang dahulu hitam kini disusupi abu-abu, bagai salju lembut. Meski sikapnya tetap tenang, matanya menyimpan bobot kelelahan seseorang yang terlalu lama menatap jurang risiko.
 
 &emsp;“Apa maksudmu… hanya sebesar itu?” suara Darlen membelah ketenangan, setajam bilah yang dibungkus beludru. Ia menyesap dari cangkir porselen—uapnya melingkar perlahan ke atas, meniru intensitas sunyi dalam pikirannya. “Jika Dreem berhasil, kau bisa menjadi orang terkaya dalam sejarah mimpi itu sendiri.”
