@@ -1,7 +1,7 @@
 **Bab 2**
 ## Simbol Mahakarya 一═デ︻
 
-Sebuah tawa berat menggema samar di dalam ruang berdinding kaca—sebuah suaka minimalis dengan lantai marmer yang dipoles hingga memantulkan cahaya seperti cermin. Dinding-dindingnya putih bersih, dihiasi aksen mahoni gelap; sementara di balik jendela panorama yang luas, lampu-lampu kota berkilauan bak rasi bintang gelisah, berpendar redup seolah malam itu sendiri telah lupa bagaimana caranya bermimpi.
+&emsp;Sebuah tawa berat menggema samar di dalam ruang berdinding kaca—sebuah suaka minimalis dengan lantai marmer yang dipoles hingga memantulkan cahaya seperti cermin. Dinding-dindingnya putih bersih, dihiasi aksen mahoni gelap; sementara di balik jendela panorama yang luas, lampu-lampu kota berkilauan bak rasi bintang gelisah, berpendar redup seolah malam itu sendiri telah lupa bagaimana caranya bermimpi.
 
 Di kursi utama, seorang pria bersandar dengan keanggunan yang terlatih. Rambut cokelatnya disisir rapi ke samping, dan sepasang kacamata tipis bertengger di batang hidungnya—membingkai mata yang berkilat dingin, tajam oleh pikiran yang telah lama bersahabat dengan ambisi.
 
@@ -98,5 +98,10 @@ Dan dengan itu, janji itu menggantung di udara seperti parfum—sunyi, kuat, tak
 
 Bukan sekadar sebuah perangkat—melainkan sebuah simbol mahakarya.
 
-[Bab 1](https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab1.md)
-[Bab 3](https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab3.md)
+***
+
+<p align="center">
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab1.md">Bab 1</a>
+  <a style="text-decoration:none;">Bab 2</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab3.md">Bab 3</a>
+</p>
