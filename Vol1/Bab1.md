@@ -70,5 +70,6 @@
 &emsp;&emsp;Ia tidak lahir dari pemahaman—melainkan dari ketakutan.
 
 <p align="center">
-[Bab 2](https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md)
+  <a href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 2</a>
+[Bab 2]()
 </p>
