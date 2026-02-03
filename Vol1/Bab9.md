@@ -12,19 +12,17 @@ Bunga di Padang Sunyi</h2>
 
 &emsp;Koridor yang semula riuh perlahan mereda saat ia melintas, seolah waktu sendiri berhenti sejenak untuk menyaksikan langkahnya. Pesonanya tak pernah menuntut perhatian; ia lahir secara alami dari ketenangannya, dari ketulusan caranya hadir, dan dari aura damai yang mengelilinginya. Mata-mata yang sebelumnya terpaku pada layar ponsel atau obrolan ringan kini terangkat—terhenti, terpikat oleh sesuatu yang tak terucap.
 
-
 &emsp;“Shh! Ratu lain lewat!”  
 &emsp;“Eh, itu Lumina dari X-2, kan?!”  
-&emsp;“Ratu lain? Seperti Tamara dan gengnya?”  
-&emsp;“Tapi aku tak pernah lihat Tamara jalan dengan dia.”  
-&emsp;“Entahlah… tapi auranya kelihatan jelas.”
-
+&emsp;“Ratu lain? Seperti... Tamara?”  
+&emsp;“Tapi mereka tak pernah terlihat bersama.”  
+&emsp;“Entahlah... tapi auranya terlihat jelas.”
 
 &emsp;Koridor seolah membuka jalan dengan sendirinya. Para siswa melangkah menepi, kepala sedikit menunduk, tubuh bergeser memberi ruang—sebuah penghormatan yang lahir tanpa diminta. Lumina sendiri tetap berjalan dengan anggun dan tenang, menundukkan kepala secukupnya sebagai balasan—sopan, namun nyaris tak kentara. Ia tak menikmati sorotan itu; sebaliknya, ia menyembunyikan rasa sungkan di balik ketenangan sikapnya, seolah tak ada yang istimewa sedang terjadi. Beberapa siswa saling bertukar pandang.
 
 
-&emsp;“Dia pendiam banget… agak bikin segan, tapi cantik.”  
-&emsp;“Penasaran dia orangnya kayak gimana di kelas.”
+&emsp;“Dia pendiam... cantik... bikin segan.”  
+&emsp;“Seperti apa ya dia di kelasnya?”
 
 
 &emsp;Beberapa ponsel sempat menyala, sekadar menangkap siluetnya sekali lagi, sementara bisik-bisik mengikuti langkahnya bagai gema lembut. Lorong itu berdengung pelan oleh rasa ingin tahu, setiap gerak kecil mempertegas rasa hormat yang hadir secara alami—bahkan tanpa sepatah kata pun.
