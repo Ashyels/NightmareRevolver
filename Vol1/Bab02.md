@@ -102,7 +102,7 @@ Pendamping sunyi bagi pikiran yang terlelap.
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab1.md">Bab 1</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab01.md">Bab 1</a>
   <a style="text-decoration:none;">Bab 2</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab3.md">Bab 3</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab03.md">Bab 3</a>
 </p>
