@@ -134,5 +134,5 @@ Simfoni Mekanis</h2>
 
 <p align="center">
   <a style="text-decoration:none;">Bab 1</a>
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab2.md">Bab 2</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab02.md">Bab 2</a>
 </p>
