@@ -43,7 +43,7 @@ Taman Persembahan Kecil</h2>
 &emsp;Tanpa mengangkat pandangan dari halaman bukunya, Lloyd menjawab dengan suara setenang jarum jam yang berdetak. “Tidak.”
 
 
-&emsp;Damien berkedip. Ia mendekat sedikit. “Kenapa? Nggak menurut kamu ini… mengganggu?”
+&emsp;Damien berkedip. Ia mendekat sedikit. “Jadi... menurut kamu ini... nggak mengganggu sedikitpun?”
 
 
 &emsp;Akhirnya, Lloyd melirik ke atas—sekilas saja—wajahnya tetap sulit dibaca. “Karena ini tidak ada hubungannya denganku,” katanya tenang. “Bising hanyalah bising—kecuali kalau kau membiarkannya masuk.”
@@ -91,7 +91,7 @@ Taman Persembahan Kecil</h2>
 &emsp;Arva mengikuti arah pandangnya, lalu tersenyum lebar. “Wah, Frio juga datang rupanya. Kupikir dia bukan tipe yang begini.” Ia menyikut Damien ringan. “Kayaknya dia lebih suka yang lain, ya?”
 
 
-&emsp;“Heh—diam!” bentak Damien cepat, wajahnya menghangat saat ia memalingkan muka. *Kenapa kamu ada di sini, Frio? Kenapa ikut mereka…?*
+&emsp;“Heh—diam!” bentak Damien cepat, wajahnya menghangat saat ia memalingkan muka. *Kenapa kamu ada di sini, Frio? Kenapa ikut mereka...?*
 
 
 &emsp;Meski jam belum menunjukkan pukul setengah tujuh lewat tiga puluh, koridor telah hidup oleh tawa ringan, sapaan hangat, dan langkah-langkah penuh harap. Setiap siswi yang masuk membawa secercah impian, dan setiap yang pergi melangkah dengan pipi merona serta hati yang diam-diam penuh.
