@@ -70,7 +70,7 @@ Sebagian besar lebih memilih memanggilnya—Dewi L’Archen.
 ***
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab8.md">Bab 8</a>
+  <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab08.md">Bab 8</a>
   <a style="text-decoration:none;">Bab 9</a>
   <a style="text-decoration:none;" href="https://github.com/Ashyels/NightmareRevolver/blob/main/Vol1/Bab10.md">Bab 10</a>
 </p>
