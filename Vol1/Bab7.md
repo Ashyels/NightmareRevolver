@@ -122,7 +122,7 @@ Taman Persembahan Kecil</h2>
 
 
 &emsp;Namun dia belum datang.  
-Belum hari ini.
+&emsp;Belum hari ini.
 
 
 
