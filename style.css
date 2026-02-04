@@ -56,8 +56,43 @@ html {
   }
 }
 
-h5, h3 {
+.unreleased {
+  opacity: 70%;
+}
+
+.chapter h5,
+.chapter h3 {
    text-align: right;
+}
+
+a:hover:not(.unreleased) {
+  font-weight: bold;
+}
+
+/*.volume footer a,
+.volume nav a {*/
+a {
+  text-decoration: none;
+}
+
+.volume ul {
+  list-style-type: none;
+}
+
+footer a {
+  margin: 0.5em;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0em 2em 0em;
+}
+
+.volume h5,
+.volume h4,
+.volume h2,
+.volume h3 {
+   text-align: center;
 }
 
 p {
@@ -67,7 +102,7 @@ p {
 .chapter-choice {
   text-decoration: none;
   text-align: center;
-  padding: 1em 0em 2em 0em;
+  padding: 1em 0em 0em 0em;
   border-top: 0.5px solid #000000;
 }
 
