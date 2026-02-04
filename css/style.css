@@ -41,6 +41,8 @@
   src: url("/fonts/peace.woff2"), format("woff2"),
        url("/fonts/peace.woff"), format("woff"),
        url("/fonts/peace.ttf"), format("truetype");
+  font-style: normal;
+  font-weight: normal;
   font-display: swap;
 }
 
