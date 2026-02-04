@@ -43,8 +43,14 @@ p {
 }
 
 body {
-    margin-left: 10%;
+/*    margin-left: 10%;
     margin-right: 10%
+*/
+    line-height: 1.8;
+    max-width: 720px;
+    margin: auto;
+    padding: 1.2rem;
+
 
 }
 
