@@ -38,7 +38,10 @@
 
 @font-face {
   font-family: Peace;
-  src: url("/Peace.woff2") format("woff2");
+  src: url("/fonts/peace.woff2"), format("woff2"),
+       url("/fonts/peace.woff"), format("woff"),
+       url("/fonts/peace.ttf"), format("truetype");
+  font-display: swap;
 }
 
 html {
