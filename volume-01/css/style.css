@@ -26,7 +26,7 @@
 
 p {
     font-family: Gabriela;
-    font-size: 90%;
+/*    font-size: 90%;*/
 }
 
 .chapter-choice {
@@ -66,7 +66,7 @@ div.header {
 }
 
 div.name {
-  font-size: 150%;
+/*  font-size: 150%;*/
   font-variant: small-caps;
   font-weight: 10;
   text-align: center;
@@ -80,7 +80,7 @@ div.name span {
 
 h1 {
   font-family: Gabriela;
-  font-size: 200%;
+/*  font-size: 200%;*/
   font-weight: bold;
   text-align: center;
   margin: 1em 0 1em 0;
@@ -120,16 +120,16 @@ span.caps {
 }
 
 span.big {
-  font-size: 120%;
+/*  font-size: 120%;*/
 }
 
 span.first {
   font-variant: small-caps;
-  font-size: 125%;
+/*  font-size: 125%;*/
   font-family: Gabriela;
 }
 span.drop {
-  font-size: 150%;
+/*  font-size: 150%;*/
   font-weight: 400;
   font-family: Gabriela;
 
@@ -164,11 +164,11 @@ div.separator {
 
 div.title {
   margin: 1em 0;
-  font-size: 120%;
+/*  font-size: 120%;*/
   text-align: center;
 }
 div.subtitle {
-  font-size: 70%;
+/*  font-size: 70%;*/
 }
 
 div.poetry {
@@ -203,7 +203,7 @@ div#tail {
 }
 
 div#tail div.smaller {
-  font-size: 93%;
+/*  font-size: 93%;*/
   margin-left: 0.5em;
 }
 div#tail p.tail1 { margin-left: 0.5em; }
@@ -301,7 +301,7 @@ div#ill41_a img, div#ill41_b img {
 */
 
 div.footnote {
-  font-size: 80%;
+/*  font-size: 80%;*/
   margin: 1em 0 1em 0;
   padding: 0 0 1em 0;
   page-break-after: always;
@@ -318,13 +318,13 @@ span.mark {
   margin: 0 1em 0 0;
 }
 a.call {
-  font-size: 60%;
+/*  font-size: 60%;*/
   font-weight: bold;
   vertical-align: text-top;
 }
 
 div.toc {
-  font-size: 120%;
+/*  font-size: 120%;*/
   text-align: left;
 }
 div.toc a {
