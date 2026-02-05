@@ -126,7 +126,7 @@ body {
     margin-right: 10%
 */
     font-family: Peace, Delius, Gabriela;
-    line-height: 1.7;
+    line-height: 1.5;
     max-width: 720px;
     margin: auto;
     padding: 1.2rem;
@@ -164,6 +164,70 @@ div.name span {
   border-bottom: 2px solid #000000;
 }
 
+/*.title-img {
+  text-align: right;
+}
+*/
+h3 img {
+  height: 40px;
+}
+
+/*.nr-illustration.small {
+  max-width: 360px;
+}
+*/
+
+/* ===== Nightmare Revolver Illustration ===== */
+
+.nr-illustration {
+  max-width: 520px;           /* nyaman buat baca */
+  margin: 2.5rem auto;        /* jarak atas-bawah */
+  text-align: center;
+}
+
+.nr-image-box {
+  aspect-ratio: 1 / 1;        /* KUNCI 1:1 */
+  width: 100%;
+  overflow: hidden;
+  border-radius: 14px;        /* lembut, modern */
+  background-color: #111;     /* kalau image loading */
+}
+
+.nr-image-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* aman buat crop */
+  display: block;
+}
+
+.nr-illustration figcaption {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: #777;
+  font-style: italic;
+}
+
+
+/*.header.shotgun {
+  background: url("./images/shotgun4.svg") center no-repeat;
+  background-size: contain;
+}
+.header {
+  border: none;
+  height: 40px;
+  margin: 3rem auto;
+}
+*/
+.scene-break.shotgun {
+  background: url("./images/shotgun8.svg") center no-repeat;
+  background-size: contain;
+}
+.scene-break {
+  border: none;
+  height: 40px;
+  margin: 3rem auto;
+}
+
 h1 {
 /*  font-family: Gabriela;*/
 /*  font-size: 200%;*/
@@ -183,7 +247,7 @@ div.pagebreak {
 }
 
 p {
-  text-indent: 1.2em;
+  text-indent: 1.0em;
     margin-top: 0.75em;
     margin-bottom: 0.75em;
 }
